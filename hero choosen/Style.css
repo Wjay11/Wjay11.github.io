@@ -1,0 +1,29 @@
+
+body {
+    background-color: #3498db;
+    text-align: center;
+}
+h1 {
+color:black;
+font-family:verdana,arial,halvetica;
+background-color:yellow;
+}
+p {
+font-family:verdana,arial,halvetica;
+color:#000;
+font-size:2em;
+}
+img {
+height:400px;
+width:400px;
+-moz-border-radius:360px;
+-webkit-border-radius:360px;
+margin:10px;
+clear:both;
+}
+footer {
+    width:100%;
+    background-color: black, 10px;
+    height:100px;
+}
+
